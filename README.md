@@ -1,2 +1,2 @@
 # Vercel-clone
-A replication of the popular Vercel platform using AWS, Redis, S3.
+A replication of the popular Vercel platform using TypeScript, AWS and Redis.
